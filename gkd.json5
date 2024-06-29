@@ -1,11 +1,12 @@
 {
-  id: 'android',
-  name: '系统',
+  id:'com.huawei.android.airsharing',
+  name:'有线投屏',
   groups: [
     {
       key: 1,
       name: '[wandayu]华为有线投屏-2024-06-29 13:51:39',
       desc: '[wandayu]本规则由GKD网页端审查工具生成',
+      matchTime:10000,
       rules: [
         {
           quickFind: true,
