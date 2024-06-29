@@ -1,0 +1,19 @@
+{
+  id: 'android',
+  name: '系统',
+  groups: [
+    {
+      key: 1,
+      name: '[wandayu]华为有线投屏-2024-06-29 13:51:39',
+      desc: '[wandayu]本规则由GKD网页端审查工具生成',
+      rules: [
+        {
+          quickFind: true,
+          action: click,
+          activityIds: null,
+          matches: '[id="android:id/button1"][vid="button1"][text="同意"][clickable=true][focusable=true]',
+        },
+      ],
+    },
+  ],
+}
